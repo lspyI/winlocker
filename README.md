@@ -1,4 +1,4 @@
-# winlocker
+# WINLOCKER
 <img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/d85756dc-3bac-45c7-a015-0b42c224acf4" />
 Винлокер написанный на Python 3.7+
 
