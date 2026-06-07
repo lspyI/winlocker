@@ -1,7 +1,10 @@
 # WINLOCKER
-<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/d85756dc-3bac-45c7-a015-0b42c224acf4" />
+
 Винлокер написанный на Python 3.7+
 
 Чтобы закрыть его нажмите комбинацию клавишь Alt + F4.
 
 Открыв файл через редактор вы можете изменить название, текст снизу (в файле написанно где можно изменить названия для людей не знающих Python) и доработать что бы он не закрывался.
+
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/d85756dc-3bac-45c7-a015-0b42c224acf4" />
+
